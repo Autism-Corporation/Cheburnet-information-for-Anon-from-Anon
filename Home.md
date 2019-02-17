@@ -19,8 +19,6 @@ https://yadi.sk/d/7M5COIUXeqhCF
 https://yadi.sk/i/QM9VeHZjceqJJ
 Армия. Отсрочка и про то, что с собой взять
 
-****Поиск подобного в гугле**** https://www.google.ru/?q=site:2ch.hk "Паков тред"
-
 Пак 70Гб
 Торрент-файл невъебенно жирный, 30Мб
 µtorrent его не открывает вообще, берите transmission (есть под винду)
