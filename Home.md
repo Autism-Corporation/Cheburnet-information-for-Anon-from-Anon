@@ -160,7 +160,7 @@ http://ponyvillelive.com/mlpma/
 µtorrent его не открывает вообще, берите transmission (есть под винду)
 Магнет magnet:?xt=urn:btih:ee5ab527caa134e0c12a03bf1818e1f1e3a761fd&dn=%D0%9F%D0%B0%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BC%D0%B8%D0%B4%D0%B6%D0%B1%D0%BE%D1%80%D0%B4
 
-## Mesh сеть
+## Mesh сеть aka подпольный интернет
 клинет сиджиднс для винды
 
 http://www.santacruzmesh.net/installer.html
