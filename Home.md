@@ -49,6 +49,22 @@ https://en.wikipedia.org/wiki/Wikipedia:Database_download
 https://pikabu.ru/story/arkhiv_statey_lurkomore__lurkmore_2018_5922550
 Дамп лурочки от мая 2018 года в формате .chm (Статьи типа Конопля/твоя мать - заблочены - другими словами дамп качал жопорук без прокси, если хочешь почитать о Конопля без заглушки перекачай через прокси например Польши (можешь даже скинуть мне новый дамп))
 
+* каталоги библиотек:
+* http://lib.rus.ec/opds Либрусек
+* http://flibusta.net/opds Флибуста
+* http://coollib.net/opds Куллиб
+* http://asmodei.ru/opds/ АСМОДЕЙ
+* http://iknigi.net/opds/ iknigi
+* http://f-w.in/opds Fantasy World
+* http://www.e-reading.link/opds/ e-reading
+* http://maxima-library.org/opds MAXIMA-LIBRARY
+* http://fb.litlib.net LITLIB
+* http://opdshome.uo1.net/samlib/ Журнал "Самиздат"
+* http://fantlab.ru/opds FANTLAB
+* http://smartoff.net/opds/ Android Club
+* http://m.gutenberg.org Проект Gutenberg
+* opdshome.uo1.net/ opdsHome
+
 https://info.stylee32.net/
 Сайт с гайдами 4chan
 
