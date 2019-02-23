@@ -54,6 +54,7 @@ https://pikabu.ru/story/arkhiv_statey_lurkomore__lurkmore_2018_5922550
 * http://lib.rus.ec/ Либрусек
 * http://flibusta.net/ Флибуста
 * http://coollib.net/ Куллиб
+* https://ficbook.net/ Сайт с фанфиками начиная от гари поттера кончая понями
 * http://asmodei.ru/ АСМОДЕЙ
 * http://iknigi.net/ iknigi
 * http://f-w.in/ Fantasy World
