@@ -68,7 +68,10 @@ https://pikabu.ru/story/arkhiv_statey_lurkomore__lurkmore_2018_5922550
 * opdshome.uo1.net/ opdsHome
 
 https://info.stylee32.net/
-Сайт с гайдами 4chan
+Сборник контента от братушек с форчана
+
+https://www.reddit.com/r/DataHoarder/wiki/index
+Редитовский аналог этой вики, содержит дохуище важной инфы, обязателен к чтению.
 
 https://yadi.sk/d/GyMDaD7EgEanV
 i2p и анонимизация
