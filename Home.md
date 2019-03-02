@@ -169,6 +169,9 @@ https://yadi.sk/d/YT6qWA_juJS2N
 https://yadi.sk/d/H9OxVjn0uopNt
 Гайды.
 
+https://drive.google.com/drive/u/0/folders/1Kniiw-sBuEsj41spB4G8JWcxSLhfcXJC
+книги по варкрафту
+
 20 гигов тредов
 magnet:?xt=urn:btih:53f3eff363f805dd643c1ac0c7f8ab66a985d213&dn=%d0%90%d1%80%d1%85%d0%b8%d0%b2%20%d0%b4%d0%be%d1%81%d0%be%d0%ba&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%2fannounce&tr=http%3a%2f%2ftracker.publicbt.com%2fannounce
 
