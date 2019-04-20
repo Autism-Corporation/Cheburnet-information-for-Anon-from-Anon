@@ -1,4 +1,4 @@
-![](https://andreymal.org/russia404/live/russia404.svg)
+[https://andreymal.org/russia404/live/russia404.svg](https://andreymal.org/russia404/live/russia404.svg)
 
 Краткая информация о том как проебать неделю жизни за сохранением интернетов:
 
