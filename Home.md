@@ -86,6 +86,9 @@ https://pikabu.ru/story/arkhiv_statey_lurkomore__lurkmore_2018_5922550
 * http://m.gutenberg.org Проект Gutenberg
 * opdshome.uo1.net/ opdsHome
 
+https://yadi.sk/d/nfSpf3rC3UA9g8
+Различные гайды
+
 https://info.stylee32.net/
 Сборник контента от братушек с форчана
 
