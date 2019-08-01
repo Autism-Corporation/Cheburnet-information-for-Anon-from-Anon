@@ -23,7 +23,7 @@ https://habr.com/post/192252/
 
 http://tssonline.ru/articles2/fix-op/mesh_seti_techn_prilozh_oborud
 
-http://arhivach.cf/thread/359423/
-http://arhivach.cf/thread/357879/
-
+http://arhivach.ng/thread/359423/
+http://arhivach.ng/thread/357879/
+ОРР
 http://www.santacruzmesh.net/connect.html#guide
