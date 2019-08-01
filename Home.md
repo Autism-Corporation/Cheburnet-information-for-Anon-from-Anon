@@ -194,20 +194,12 @@ https://yadi.sk/d/H9OxVjn0uopNt
 https://drive.google.com/drive/u/0/folders/1Kniiw-sBuEsj41spB4G8JWcxSLhfcXJC
 книги по варкрафту
 
-20 гигов тредов
-magnet:?xt=urn:btih:53f3eff363f805dd643c1ac0c7f8ab66a985d213&dn=%d0%90%d1%80%d1%85%d0%b8%d0%b2%20%d0%b4%d0%be%d1%81%d0%be%d0%ba&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%2fannounce&tr=http%3a%2f%2ftracker.publicbt.com%2fannounce
-
 http://www.tlmc.eu/
 Террабайты тохомузыки
 
 http://thatmusicbrony.tumblr.com/
 http://ponyvillelive.com/mlpma/
 Понимузыка
-
-Пак 70Гб
-Торрент-файл невъебенно жирный, 30Мб
-µtorrent его не открывает вообще, берите transmission (есть под винду)
-Магнет magnet:?xt=urn:btih:ee5ab527caa134e0c12a03bf1818e1f1e3a761fd&dn=%D0%9F%D0%B0%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BC%D0%B8%D0%B4%D0%B6%D0%B1%D0%BE%D1%80%D0%B4
 
 ## Mesh сеть aka подпольный интернет
 клинет сиджиднс для винды
