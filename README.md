@@ -2,20 +2,20 @@
 
 Иная копия этого гитхаба - [Мы отечественные инфоанархисты, готовящиеся к возможному обрубу кабеля. ](https://cocairo.party/faq/)
 
+Кидаем все свои идеи/правки/найденные ошибки в писанине/ссылки на гайды/.... на мыло **XxXvasyan99XxX@gmail.com**
 
 Краткая информация о том как проебать неделю жизни за сохранением интернетов:
 
 ***
 
 ### СОДЕРЖИМОЕ:
-1. [Аппаратная часть](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki/%D0%90%D0%9F%D0%9F%D0%90%D0%A0%D0%90%D0%A2%D0%9D%D0%90%D0%AF-%D0%A7%D0%90%D0%A1%D0%A2%D0%AC)
-1. [Программная часть](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%B0%D1%8F-%D1%87%D0%B0%D1%81%D1%82%D1%8C)
-1. [ССЫЛОЧКИ НА ФОТО ТВ.МАЙОРА БЕЗ ПОГОН И ОРДЕРА!!](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki/%D0%A1%D0%A1%D0%AB%D0%9B%D0%9E%D0%A7%D0%9A%D0%98-%D0%9D%D0%90-%D0%A4%D0%9E%D0%A2%D0%9E-%D0%A2%D0%92.%D0%9C%D0%90%D0%99%D0%9E%D0%A0%D0%90-%D0%91%D0%95%D0%97-%D0%9F%D0%9E%D0%93%D0%9E%D0%9D-%D0%98-%D0%9E%D0%A0%D0%94%D0%95%D0%A0%D0%90!!-(%D0%B2%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE-%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81-%D1%83%D0%B6%D0%B5-%D1%82%D0%B2.%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0))
+1. [Аппаратная часть](/hardware.md)
+1. [Программная часть](/software.md)
+1. [ССЫЛОЧКИ НА ФОТО ТВ.МАЙОРА БЕЗ ПОГОН И ОРДЕРА!!](/varez-links.md)
 1. [Советы как пить из лужи](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki/info)
 1. [Как перестать отхлёбывать из лужи](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki/home2)
-1. [Испытания и опыты Network Attached Storage](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki/%D0%97%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE-Network-Attached-Storage)
+1. [Испытания и опыты Network Attached Storage](/Network-Attached-Storage.md)
 
-`
 
 1. [Как перестать есть с земли](https://www.google.ru/)
 1. [Как не совать интересные предметы в интересные дырки](https://www.google.ru/)
