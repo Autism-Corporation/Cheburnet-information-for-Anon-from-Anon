@@ -1,29 +1,87 @@
-WIRE. 
+## TOX 
+
+https://tox.chat/
+
+http://www.spy-soft.net/ustanovka-nastrojka-rabota-s-anonimnym-messendzherom-tox/
+
+## WIRE. 
+
 Клиент:
 https://github.com/wireapp
 
 Сервер:
 https://github.com/wireapp/wire-server
 
-клинет сиджиднс для винды
 
-http://www.santacruzmesh.net/installer.html
 
-https://github.com/cjdelisle/cjdns/blob/master/README_RU.md#%D0%9A%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-cjdns
+## Bitmessage
 
-прошивки для роутеров.
-https://unifi-xg.ubnt.com/
-https://openwrt.org/
+https://bitmessage.org/wiki/Main_Page
 
-Статьи
-https://habr.com/post/181862/
-https://habr.com/post/183606/
-https://habr.com/post/182652/
-https://habr.com/post/192252/
+https://book.cyberyozh.com/ru/bitmessage-samyij-anonimnyij-messendzher/
 
-http://tssonline.ru/articles2/fix-op/mesh_seti_techn_prilozh_oborud
+## Tor
 
-http://arhivach.ng/thread/359423/
-http://arhivach.ng/thread/357879/
-ОРР
-http://www.santacruzmesh.net/connect.html#guide
+https://www.torproject.org/
+
+https://ru.wikipedia.org/wiki/Tor
+
+## I2P
+
+https://habr.com/en/post/97827/
+
+https://geti2p.net/ru/
+
+https://github.com/PurpleI2P/i2pd
+
+## Freenet
+
+http://zenway.ru/page/freenet
+
+https://freenetproject.org/
+
+## Retroshare
+
+https://adorabilis.wordpress.com/rs-quick-entering/
+
+https://habr.com/en/post/279031/
+
+http://retroshare.cc/
+
+## GoodbyeDPI
+
+https://bitbucket.org/ValdikSS/goodbyedpi
+
+
+## Сайты с теорией
+
+https://privacytools.ru/
+
+https://book.cyberyozh.com/ru/?fl=ru
+
+http://www.ifap.ru/library/book534.pdf - Настольная книга кибердиссидента
+
+# Mesh сети
+
+https://github.com/russian-meshnet/meshnet-chat-agenda - оче годное русское сообщество.
+
+https://www.reddit.com/r/ru_meshnet
+
+## Дистрибутивы линукс для обхода блокировок и анонимизации 
+
+### Linux Kodachi
+
+Имеет встроеный впн, который оплачивает создатель, если заподозрит тебя в чём-то нехорошем - отрубит.
+Так что анонимность так себе, но в остальном оче хорош.
+
+https://sourceforge.net/projects/linuxkodachi/
+
+https://codeby.net/threads/kodachi-bezopasnaja-kontr-kriminalisticheskaja-anonimnaja-operacionnaja-sistema.67098/#
+
+https://www.digi77.com/linux-kodachi/
+
+### Tails
+
+https://tails.boum.org/
+
+https://habr.com/ru/post/439716/

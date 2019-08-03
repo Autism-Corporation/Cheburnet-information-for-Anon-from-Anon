@@ -34,3 +34,6 @@ magnet:?xt=urn:btih:48490890253391C9C7B1592DFDED633A62394373&dn=requested&tr=htt
 
 ***
 
+20 гигов тредов magnet:?xt=urn:btih:53f3eff363f805dd643c1ac0c7f8ab66a985d213&dn=%d0%90%d1%80%d1%85%d0%b8%d0%b2%20%d0%b4%d0%be%d1%81%d0%be%d0%ba&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%2fannounce&tr=http%3a%2f%2ftracker.publicbt.com%2fannounce
+
+Пак 70Гб Торрент-файл невъебенно жирный, 30Мб µtorrent его не открывает вообще, берите transmission (есть под винду) Магнет magnet:?xt=urn:btih:ee5ab527caa134e0c12a03bf1818e1f1e3a761fd&dn=%D0%9F%D0%B0%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BC%D0%B8%D0%B4%D0%B6%D0%B1%D0%BE%D1%80%D0%B4
