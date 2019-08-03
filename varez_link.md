@@ -1,9 +1,3 @@
----
-title: "Varez link"
-date: 1111-11-11T11:11:11+03:00
-url: /varez_link/
-categories: ["iron_curtain"]
----
 
 Сообщения о тухлых ссылках и годноте кидать сюда cocairo@protonmail.com
 
