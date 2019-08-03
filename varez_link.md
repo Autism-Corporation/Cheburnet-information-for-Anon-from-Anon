@@ -98,7 +98,6 @@ chanlit.wikia.com
 tv-televisionandfilm.fandom.com
 vsrecommendedgames.fandom.com Адвайс листы ирекомендации по книгам, фильмам, тв-шоу и играмот 4чана.
 https://sheba.spb.ru/ - советские книги и аудио
-https://antijob.net/ - трудовое сопротивление
 
 ССЫЛОЧКИ НА ФОТО ТВ.МАЙОРА БЕЗ ПОГОН И ОРДЕРА!! (возможно сейчас уже тв.подполковника)
 
