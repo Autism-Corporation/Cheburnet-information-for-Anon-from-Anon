@@ -12,11 +12,10 @@
 1. [Аппаратная часть](/hardware.md)
 1. [Программная часть](/software.md)
 1. [ССЫЛОЧКИ НА ФОТО ТВ.МАЙОРА БЕЗ ПОГОН И ОРДЕРА!!](/varez-links.md)
-1. [Советы как пить из лужи](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki/info)
-1. [Как перестать отхлёбывать из лужи](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki/home2)
 1. [Испытания и опыты Network Attached Storage](/Network-Attached-Storage.md)
 
-
+1. [Советы как пить из лужи](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki/info)
+1. [Как перестать отхлёбывать из лужи](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki/home2)
 1. [Как перестать есть с земли](https://www.google.ru/)
 1. [Как не совать интересные предметы в интересные дырки](https://www.google.ru/)
 1. [Лужа - это плохо](https://www.google.ru/)
