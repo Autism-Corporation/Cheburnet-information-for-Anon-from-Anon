@@ -108,97 +108,97 @@
 - https://btdig.com/index.htm
 
 #### Линки от анонов
-http://www.infoanarchy.org/ - вики инфоанархистов
-https://wiki.bibanon.org/ - библия анона
-chanlit.wikia.com
-tv-televisionandfilm.fandom.com
-vsrecommendedgames.fandom.com Адвайс листы ирекомендации по книгам, фильмам, тв-шоу и играмот 4чана.
-https://sheba.spb.ru/ - советские книги и аудио
+- http://www.infoanarchy.org/ - вики инфоанархистов
+- https://wiki.bibanon.org/ - библия анона
+- chanlit.wikia.com
+- tv-televisionandfilm.fandom.com
+- vsrecommendedgames.fandom.com Адвайс листы ирекомендации по книгам, фильмам, тв-шоу и играмот 4чана.
+- https://sheba.spb.ru/ - советские книги и аудио
 
-ССЫЛОЧКИ НА ФОТО ТВ.МАЙОРА БЕЗ ПОГОН И ОРДЕРА!! (возможно сейчас уже тв.подполковника)
+ССЫЛОЧКИ НА ФОТО ТОВ.МАЙОРА ДОЕБАЛЕСА БЕЗ ПОГОН И ОРДЕРА!!! (возможно сейчас уже тов.подполковника)
 
-https://yadi.sk/d/nfSpf3rC3UA9g8 - большой пак больше 50 гб
+- https://yadi.sk/d/nfSpf3rC3UA9g8 - большой пак больше 50 гб
 
-https://drive.google.com/file/d/19hKtkk_tp1Zm_BrpqBUkp6agOswf6__k/view?aba2c4aa26 Книги издательства МИФ - 2018 [293 книг]
+- https://drive.google.com/file/d/19hKtkk_tp1Zm_BrpqBUkp6agOswf6__k/view?aba2c4aa26 Книги издательства МИФ - 2018 [293 книг]
 
-https://en.wikipedia.org/wiki/Wikipedia:Database_download Дамп википедии с инструкцией.
+- https://en.wikipedia.org/wiki/Wikipedia:Database_download Дамп википедии с инструкцией.
 
-https://wiki.kiwix.org/wiki/Content_in_all_languages - Дампы вики и не только.
+- https://wiki.kiwix.org/wiki/Content_in_all_languages - Дампы вики и не только.
 
-https://pikabu.ru/story/arkhiv_statey_lurkomore__lurkmore_2018_5922550 Дамп лурочки от мая 2018 года в формате .chm (Статьи типа Конопля/твоя мать - заблочены - другими словами дамп качал жопорук без прокси, если хочешь почитать о Конопля без заглушки перекачай через прокси например Польши (можешь даже скинуть нам новый дамп))
+- https://pikabu.ru/story/arkhiv_statey_lurkomore__lurkmore_2018_5922550 Дамп лурочки от мая 2018 года в формате .chm (Статьи типа Конопля/твоя мать - заблочены - другими словами дамп качал жопорук без прокси, если хочешь почитать о Конопля без заглушки перекачай через прокси например Польши (можешь даже скинуть нам новый дамп))
 
-http://www.tlmc.eu/ Террабайты тохомузыки
+- http://www.tlmc.eu/ Террабайты тохомузыки
 
-http://thatmusicbrony.tumblr.com/ http://ponyvillelive.com/mlpma/ Понимузыка
+- http://thatmusicbrony.tumblr.com/ http://ponyvillelive.com/mlpma/ Понимузыка
 
-https://info.stylee32.net/ Сборник контента от братушек с форчана
+- https://info.stylee32.net/ Сборник контента от братушек с форчана
 
-https://www.reddit.com/r/DataHoarder/wiki/index Редитовский аналог этой вики, содержит дохуище важной инфы, обязателен к чтению.
+- https://www.reddit.com/r/DataHoarder/wiki/index Редитовский аналог этой вики, содержит дохуище важной инфы, обязателен к чтению.
 
-https://yadi.sk/d/YQus0gyATXHuNg Архив с музыкой на 60 гигов. Чел который выкинул, написал что много интересного и редкого
+- https://yadi.sk/d/YQus0gyATXHuNg Архив с музыкой на 60 гигов. Чел который выкинул, написал что много интересного и редкого
 
-https://yadi.sk/d/GyMDaD7EgEanV i2p и анонимизация
+- https://yadi.sk/d/GyMDaD7EgEanV i2p и анонимизация
 
-https://yadi.sk/d/AiT4NO8PgQ75G Примерно 5 гигов бытовой психологии и вылезаторства
+- https://yadi.sk/d/AiT4NO8PgQ75G Примерно 5 гигов бытовой психологии и вылезаторства
 
-https://yadi.sk/d/DuHOviyVfV2vH Советы /б/ратишек
+- https://yadi.sk/d/DuHOviyVfV2vH Советы /б/ратишек
 
-https://yadi.sk/d/eCD9VRXZjxt6W Внешний вид
+- https://yadi.sk/d/eCD9VRXZjxt6W Внешний вид
 
-https://yadi.sk/d/YB3HhdlWeqh8w Вылезаторам
+- https://yadi.sk/d/YB3HhdlWeqh8w Вылезаторам
 
-https://yadi.sk/d/7M5COIUXeqhCF Фриланс, торговля анальной жепой, воровство гаражей и другие способы заработать
+- https://yadi.sk/d/7M5COIUXeqhCF Фриланс, торговля анальной жепой, воровство гаражей и другие способы заработать
 
-https://yadi.sk/i/QM9VeHZjceqJJ Армия. Отсрочка и про то, что с собой взять
+- https://yadi.sk/i/QM9VeHZjceqJJ Армия. Отсрочка и про то, что с собой взять
 
-https://yadi.sk/d/5J6_Kz5Ci3mg7 Маленький пак.
+- https://yadi.sk/d/5J6_Kz5Ci3mg7 Маленький пак.
 
-http://rghost.ru/8WXmnHYJX Вброшу пару паков с форчана. В основном-маны, картинки с объяснениями и прочее.
+- http://rghost.ru/8WXmnHYJX Вброшу пару паков с форчана. В основном-маны, картинки с объяснениями и прочее.
 
-http://rghost.net/6YDMPvmXW Сборник книжек по питону
+- http://rghost.net/6YDMPvmXW Сборник книжек по питону
 
-https://yadi.sk/d/4Qfrt1Dli6DVT Там лайфхаки и прочая поебень.
+- https://yadi.sk/d/4Qfrt1Dli6DVT Там лайфхаки и прочая поебень.
 
-https://yadi.sk/d/1O9a4dTUi6FBw Книги
+- https://yadi.sk/d/1O9a4dTUi6FBw Книги
 
-https://yadi.sk/d/4Qfrt1Dli6DVT Лайфхаки
+- https://yadi.sk/d/4Qfrt1Dli6DVT Лайфхаки
 
-https://mega.nz/#F!mokRnZob!lFNufxs82nrmDbrujuGPWQвот там текстовик со ссылками на облака.
+- https://mega.nz/#F!mokRnZob!lFNufxs82nrmDbrujuGPWQвот там текстовик со ссылками на облака.
 
-http://rgho.st/69FHWfmcV Пак Пепе. Пароль стандартный.
+- http://rgho.st/69FHWfmcV Пак Пепе. Пароль стандартный.
 
-https://yadi.sk/d/c65TvvTmqkefF Шаблоны всякого говна, называется "Документы СНГ"
+- https://yadi.sk/d/c65TvvTmqkefF Шаблоны всякого говна, называется "Документы СНГ"
 
-https://yadi.sk/d/sMGsRIZFrTQyR СССР 2061
+- https://yadi.sk/d/sMGsRIZFrTQyR СССР 2061
 
-https://yadi.sk/d/hqnn8G8xrTR3x Ебля
+- https://yadi.sk/d/hqnn8G8xrTR3x Ебля
 
-https://yadi.sk/d/BYDXZFp7rTRCb Старый ламповый двач.
+- https://yadi.sk/d/BYDXZFp7rTRCb Старый ламповый двач.
 
-https://yadi.sk/d/HmxDq5VGrTSD7 Шок-контент. Пароль стандартный.
+- https://yadi.sk/d/HmxDq5VGrTSD7 Шок-контент. Пароль стандартный.
 
-https://yadi.sk/d/GBCxMkc1snJST Пак с шебм.
+- https://yadi.sk/d/GBCxMkc1snJST Пак с шебм.
 
-https://yadi.sk/d/iLhFmTverTjrv Архив тредов и тредшотов.
+- https://yadi.sk/d/iLhFmTverTjrv Архив тредов и тредшотов.
 
-https://mega.nz/#F!mokRnZob!lFNufxs82nrmDbrujuGPWQ Пак с разными книгами и гайдами. Точно не знаю, что там, вроде интрижка есть.
+- https://mega.nz/#F!mokRnZob!lFNufxs82nrmDbrujuGPWQ Пак с разными книгами и гайдами. Точно не знаю, что там, вроде интрижка есть.
 
-https://yadi.sk/d/4Qfrt1Dli6DVT Большой пак разной годноты и не только.
+- https://yadi.sk/d/4Qfrt1Dli6DVT Большой пак разной годноты и не только.
 
-https://yadi.sk/d/UVnyJLn6rV4ws Говно. Коротко и просто. Не знаю, что там.
+- https://yadi.sk/d/UVnyJLn6rV4ws Говно. Коротко и просто. Не знаю, что там.
 
-https://yadi.sk/d/hD_ZDk70rV4o7 Воровач.
+- https://yadi.sk/d/hD_ZDk70rV4o7 Воровач.
 
-https://yadi.sk/d/Poas7swxrV4qs Вишмастер.
+- https://yadi.sk/d/Poas7swxrV4qs Вишмастер.
 
-https://yadi.sk/d/DmNOXauQraC6Z Пак гифок, 2009-2013. ohweireGhuoNahlei5aiweZei3ceex
+- https://yadi.sk/d/DmNOXauQraC6Z Пак гифок, 2009-2013. ohweireGhuoNahlei5aiweZei3ceex
 
-https://mega.nz/#F!SFlUwSKb!lPNpq9qwEvYkDHhm8LM88w Пак досок.
+- https://mega.nz/#F!SFlUwSKb!lPNpq9qwEvYkDHhm8LM88w Пак досок.
 
-https://mega.nz/#!rlUiAbxZ!LzjFx_qvW0fYgu35y2s_lKdT7zoC1PLHkV84i90M2CI Нетсталкерская хуйня, очень много запароленного всего. В курсе, что мейн пароль = название крупной борды, вымершей в 2014.
+- https://mega.nz/#!rlUiAbxZ!LzjFx_qvW0fYgu35y2s_lKdT7zoC1PLHkV84i90M2CI Нетсталкерская хуйня, очень много запароленного всего. В курсе, что мейн пароль = название крупной борды, вымершей в 2014.
 
-https://yadi.sk/d/YT6qWA_juJS2N Пак с куклами.
+- https://yadi.sk/d/YT6qWA_juJS2N Пак с куклами.
 
-https://yadi.sk/d/H9OxVjn0uopNt Гайды.
+- https://yadi.sk/d/H9OxVjn0uopNt Гайды.
 
-https://drive.google.com/drive/u/0/folders/1Kniiw-sBuEsj41spB4G8JWcxSLhfcXJC книги по варкрафту
+- https://drive.google.com/drive/u/0/folders/1Kniiw-sBuEsj41spB4G8JWcxSLhfcXJC книги по варкрафту
