@@ -13,6 +13,7 @@
 1. [Аппаратная часть](/hardware.md)
 1. [Программная часть](/software.md)
 1. [Полезные линки](/varez_link.md)
+1. [Анонимные средства связи](/ways_to_bypass_locks.md)
 1. [Испытания и опыты Network Attached Storage](/Network-Attached-Storage.md)
 
 ***
