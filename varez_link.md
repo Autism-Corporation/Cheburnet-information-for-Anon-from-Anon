@@ -1,35 +1,30 @@
+### Варез линкс
+##### Софт на пекарню:  
+- [alternativeto.net](https://alternativeto.net/) - Хороший, годный ресурс для поиска софта и аналогов к нему.
+- [irdevelopers.com](https://irdevelopers.com/)
+- [rsload.net](https://rsload.net/)
+- [onhax.me](https://onhax.me/)
+- [portableapps.com](https://portableapps.com/)
+- [startcrack.com](http://startcrack.com/)
+- [teamos-hkrg.com](https://teamos-hkrg.com/index.php)
+- [karanpc.com](https://karanpc.com/) - Варез, кряки, репаки, кейгены. 
 
-Сообщения о тухлых ссылках и годноте кидать сюда cocairo@protonmail.com
+##### Софт на ведроид:
+- [4pda.ru](http://4pda.ru/) - Без иронии. После наступления чебурнета эта файлопомойка начнёт массово тереть варез, лишь бы её не заблочили. Качай пока не поздно.
+- [apk4fun.com](https://www.apk4fun.com/)
+- [apkmirror.com](https://www.apkmirror.com/) 
+- [apkpure.com](apkpure.com) 
+- [trashbox.ru](https://trashbox.ru/)
+- [mob.org](https://mob.org/) 
 
-### Софт на пекарню:  
-
-- alternativeto.net - Хороший, годный ресурс для поиска нужного софта и аналогов к нему.
-- irdevelopers.com;
-- rsload.net;
-- onhax.me; 
-- portableapps.com;
-- startcrack.com; 
-- teamos-hkrg.com; 
-- karanpc.com - Варез, кряки, репаки, кейгены. Без хуёв.
-
-### Софт на ведроид:
-
-- 4pda.com - Без иронии. После наступления чебурнета эта файлопомойка начнёт массово тереть варез, лишь бы её не заблочили. Качай пока не поздно.
-- Мало чем отличаются друг от друга, разве что вандалы с наших обменников могут русифицировать приложение.
-  - apk4fun.com; 
-  - apkmirror.com; 
-  - apkpure.com; 
-  - trashbox.ru; 
-  - mob.org 
-
-### Игры:
-
-- Skidrow, CPY, CODEX - Годные репакеры, в отличие от наших действительно ничего не вырезают и не перекодируют. Не ставят ватермарки, не вшивают заставки и рекламу. И уж тем более ничего не переводят. 
-- isohunt.ee - Игры торрентом. 
-- coolrom.com; emuparadise.me; romsmania.cc; freeroms.com; romhustler.net - Консольные игры, олдовые и не очень. 
-- small-games.info - Осторожнее, очень много локализации. Но можно найти и оригиналы. 
-- igg-games.com; apunkagames.com; fullypcgames.net - Ставят пароль на некоторые архивы (хотя сами утверждают что на все архивы). Пароль один и тот же. 
-- myplaycity.com - Платные игры задаром, при том легально. Правда рекламы дохуя, но её можно выпилить. 
+##### Игры:
+- [Skidrow](https://www.skidrowcodex.net/), [CPY](https://cpy-crack.com/) - Годные репакеры, в отличие от наших действительно ничего не вырезают и не перекодируют. Не ставят ватермарки, не вшивают заставки и рекламу. И уж тем более ничего не переводят. 
+- [isohunt.ee](http://isohunt.ee/) 
+- [small-games.info](https://small-games.info/) - Осторожнее, очень много локализации. Но можно найти и оригиналы. 
+- [igg-games.com](igg-games.com)
+- [apunkagames.com](https://apunkagames.com/) 
+- [fullypcgames.net](http://www.fullypcgames.net/) - Ставят пароль на некоторые архивы. Пароль один и тот же. 
+- [myplaycity.com](https://www.myplaycity.com/) - Платные игры задаром, при том легально. Правда рекламы дохуя, но её можно выпилить. 
 - https://rutracker.org/forum/viewtopic.phpt=4252995 -Ромсет с играми SEGA 
 - https://rutracker.org/forum/viewtopic.phpt=4276171 -Для N64 
 - https://rutracker.org/forum/viewtopic.phpt=4523057 -Для SNES 
@@ -37,17 +32,26 @@
 - https://www.reddit.com/r/Roms/comments/7z9rv8/26_consoles_100000_roms_full_rom_packs_retro_file/ 
 - https://nblog.org/rompacks-romsets/ 
 - https://www.reddit.com/r/Roms/comments/9da291/complete_romset_downloads_2018_versions_nointro/ 
+Консольные игры, олдовые и не очень: 
+-[coolrom.com](https://coolrom.com.au/)
+-[emuparadise.me](https://www.emuparadise.me/) 
+-[romsmania.cc](https://romsmania.cc/)
+-[freeroms.com](https://www.freeroms.com/)
+-[romhustler.net](https://romhustler.net/)  
 
-### Кинцо и сериалы:
+##### Кинцо и сериалы:
+- [yts.am] - Практически все поделия Голливуда (и не только) в хорошем качестве и относительно небольшом размере. Домен именно .am, всё остальное фишинг с фильмами без видеоряда, которые предлагают скачать плагин для воспроизведения.
+- [ettv.tv] 
+- [eztv.io]
+- [pirateiro.com] 
+- [nyaa.si] - В основном анима, но есть и нормальный контент.
+- [opensubtitles.org] - Субтитры практически ко всему и практически на всех языках.
+Если русских субтитров нет на OpenSubtitles, то они есть здесь:
+- [subs.com.ru];
+- [subtitry.ru]; 
+- [vse-subtitri.ru] 
 
-- yts.am - Практически все поделия Голливуда (и не только) в хорошем качестве и относительно небольшом размере. Домен именно .am, всё остальное фишинг с фильмами без видеоряда, которые предлагают скачать плагин для воспроизведения.
-- ettv.tv; eztv.io; pirateiro.com -  Сериальчики. Жаль только что большинство TVRipы с ватермарками каналов.
-- nyaa.si - В основном анима, но есть и нормальный контент.
-- opensubtitles.org - Субтитры практически ко всему и практически на всех языках.
-- subs.com.ru; subtitry.ru; vse-subtitri.ru - Если русских субтитров нет на OpenSubtitles, то они есть здесь.
-
-### Литература:
-
+##### Литература:
 - pdfstop.com; bookflare.net; read-any-book.com; planetebook.com; pdfland.net; ebooks-for-all.com; free-ebooks.net; manybooks.net; freecomputerbooks.com; manybooks.net; freetechbooks.com; ebook3000.biz; bookrix.com; cookebooks.info - альтернативы очевидной флибусте и либрусеку.
 - magdownload.org; magazinelib.com; mobilism.xyz - Журнальчики.
 - http://lib.rus.ec/ Либрусек
@@ -69,8 +73,7 @@
 - http://www.ph4s.ru/ Много книг советского периода
 - http://vzvod621.narod.ru/ книго-помойка матмеха
 
-### Всё и сразу:
-
+##### Всё и сразу:
 - katcr.co - ОСТОРОЖНО, БЛЯТЬ. KickAssTorrents имеет очень много фишинговых "зеркал". Причём ни один антифишинг их не распознаёт.
 - proxybay.bet - Зеркала ThePirateBay. Иногда показывает что зеркала недоступны, даже если они доступны.
 - rutracker.org, tfile.co, rutor.org, nnm-club.me - Nuff said. Советую проверять наличие оригинальной озвучки, ибо много вандалов, которые её выпиливают. С играми то же самое, локализаторы беспощадны.
@@ -78,14 +81,12 @@
 - 1337x.to; torrentking.eu; torrentz2.eu; torrentfunk.com; rarbg.to - Да просто хорошие трекеры, про которые ничего особенного не скажешь. 
 - https://rarbgmirror.xyz/ торрентр где много порно без регистрации
 
-### Поисковики
-
+##### Поисковики
 https://krasfs.ru/
 https://www.digbt.org/
 https://btdig.com/index.htm
 
-### Разное
-
+##### Разное
 http://www.infoanarchy.org/ - вики инфоанархистов
 https://wiki.bibanon.org/ - библия анона
 chanlit.wikia.com
