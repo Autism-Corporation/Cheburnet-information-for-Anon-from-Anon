@@ -32,6 +32,7 @@
 - https://www.reddit.com/r/Roms/comments/7z9rv8/26_consoles_100000_roms_full_rom_packs_retro_file/ 
 - https://nblog.org/rompacks-romsets/ 
 - https://www.reddit.com/r/Roms/comments/9da291/complete_romset_downloads_2018_versions_nointro/ 
+
 Консольные игры, олдовые и не очень: 
 -[coolrom.com](https://coolrom.com.au/)
 -[emuparadise.me](https://www.emuparadise.me/) 
