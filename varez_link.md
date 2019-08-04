@@ -40,53 +40,73 @@
 -[romhustler.net](https://romhustler.net/)  
 
 ##### Кинцо и сериалы:
-- [yts.am] - Практически все поделия Голливуда (и не только) в хорошем качестве и относительно небольшом размере. Домен именно .am, всё остальное фишинг с фильмами без видеоряда, которые предлагают скачать плагин для воспроизведения.
-- [ettv.tv] 
-- [eztv.io]
-- [pirateiro.com] 
-- [nyaa.si] - В основном анима, но есть и нормальный контент.
-- [opensubtitles.org] - Субтитры практически ко всему и практически на всех языках.
+- [yts.lt](https://yts.lt/) - Практически все поделия Голливуда (и не только) в хорошем качестве и относительно небольшом размере. Домен именно .am, всё остальное фишинг с фильмами без видеоряда, которые предлагают скачать плагин для воспроизведения.
+- [ettv.tv](https://www.ettv.to/)
+- [eztv.io](https://eztv.io/)
+- [pirateiro.com](http://pirateiro.com/) 
+- [nyaa.si](nyaa.si) - В основном анима, но есть и нормальный контент.
+- [opensubtitles.org](https://www.opensubtitles.org/ru) - Субтитры практически ко всему и практически на всех языках.
 Если русских субтитров нет на OpenSubtitles, то они есть здесь:
-- [subs.com.ru];
-- [subtitry.ru]; 
-- [vse-subtitri.ru] 
+- [subs.com.ru](http://subs.com.ru/)
+- [subtitry.ru](https://subtitry.ru/)
+- [vse-subtitri.ru](http://vse-subtitri.ru/) 
 
 ##### Литература:
-- pdfstop.com; bookflare.net; read-any-book.com; planetebook.com; pdfland.net; ebooks-for-all.com; free-ebooks.net; manybooks.net; freecomputerbooks.com; manybooks.net; freetechbooks.com; ebook3000.biz; bookrix.com; cookebooks.info - альтернативы очевидной флибусте и либрусеку.
-- magdownload.org; magazinelib.com; mobilism.xyz - Журнальчики.
-- http://lib.rus.ec/ Либрусек
-- http://flibusta.net/ Флибуста
-- http://coollib.net/ Куллиб
-- https://ficbook.net/ Сайт с фанфиками начиная о тгари -поттера кончая понями
-- http://asmodei.ru/ АСМОДЕЙ
-- http://iknigi.net/ iknigi
-- http://f-w.in/ Fantasy World
-- http://www.e-reading.link/ e-reading
-- http://maxima-library.org/ MAXIMA-LIBRARY
-- http://fb.litlib.net LITLIB
-- http://opdshome.uo1.net/samlib/ Журнал "Самиздат"
-- http://fantlab.ru/ FANTLAB
-- http://smartoff.net/opds/ Android Club
-- http://m.gutenberg.org Проект Gutenberg
-- opdshome.uo1.net/ opdsHome
-- https://torrentz.run/user/j3w1/ 200 гигов Computer science литературы на ангельском.
-- http://www.ph4s.ru/ Много книг советского периода
-- http://vzvod621.narod.ru/ книго-помойка матмеха
+- [pdfstop.com](https://pdfstop.com/)
+- [bookflare.net](https://bookflare.org/)
+- [read-any-book.com](https://read-any-book.com/)
+- [planetebook.com](https://www.planetebook.com/)
+- [pdfland.net](http://pdfland.net/)
+- [ebooks-for-all.com](http://www.ebooks-for-all.com/)
+- [free-ebooks.net](https://www.free-ebooks.net/)
+- [manybooks.net](https://manybooks.net/)
+- [freecomputerbooks.com](http://freecomputerbooks.com/)
+- [freetechbooks.com](https://www.freetechbooks.com/)
+- [ebook3000.biz](https://ebook3000.biz/)
+- [bookrix.com](https://www.bookrix.com/)
+- [cookebooks.info](http://cookebooks.info/)
+- [magdownload.org](http://magdownload.org/)
+- [magazinelib.com](https://magazinelib.com/)
+- [mobilism.xyz](http://mobilism.xyz/)
+- [Либрусек](http://lib.rus.ec/ )
+- [Флибуста](http://flibusta.net/)
+- [Куллиб](http://coollib.net/)
+- [Сайт с фанфиками](https://ficbook.net/)
+- [АСМОДЕЙ](http://asmodei.ru/ )
+- [iknigi](http://iknigi.net/)
+- [Fantasy World](http://f-w.in/)
+- [e-reading](http://www.e-reading.link/)
+- [MAXIMA-LIBRARY](http://maxima-library.org/)
+- [LITLIB](http://fb.litlib.net )
+- [Журнал "Самиздат"](http://opdshome.uo1.net/samlib/)
+- [FANTLAB](http://fantlab.ru/)
+- [Android Club](http://smartoff.net/opds/)
+- [Проект Gutenberg](http://m.gutenberg.org )
+- [opdsHome](opdshome.uo1.net/ )
+- [200 гигов Computer science литературы на ангельском.](https://torrentz.run/user/j3w1/)
+- [Много книг советского периода](http://www.ph4s.ru/)
+- [Книго-помойка матмеха](http://vzvod621.narod.ru/)
 
 ##### Всё и сразу:
-- katcr.co - ОСТОРОЖНО, БЛЯТЬ. KickAssTorrents имеет очень много фишинговых "зеркал". Причём ни один антифишинг их не распознаёт.
-- proxybay.bet - Зеркала ThePirateBay. Иногда показывает что зеркала недоступны, даже если они доступны.
-- rutracker.org, tfile.co, rutor.org, nnm-club.me - Nuff said. Советую проверять наличие оригинальной озвучки, ибо много вандалов, которые её выпиливают. С играми то же самое, локализаторы беспощадны.
-- torlock.com - Платит юзерам 1 доллар за нахождение фейкового торрента. Так что можно качать без опасения.
-- 1337x.to; torrentking.eu; torrentz2.eu; torrentfunk.com; rarbg.to - Да просто хорошие трекеры, про которые ничего особенного не скажешь. 
-- https://rarbgmirror.xyz/ торрентр где много порно без регистрации
+- [katcr.co]() - **Осторожно, KickAssTorrents имеет очень много фишинговых "зеркал". Причём ни один антифишинг их не распознаёт.**
+- [proxybay.bet](https://proxybay.bet/) - Зеркала ThePirateBay. Иногда показывает что зеркала недоступны, даже если они доступны.
+- [rutracker.org](rutracker.org) 
+- [tfile.co](tfile.co)
+- [nnm-club.me](nnm-club.me) 
+- [torlock.com](torlock.com) - Платит юзерам 1 доллар за нахождение фейкового торрента. Так что можно качать без опасения.
+- [1337x.to](1337x.to);
+- [torrentking.eu](https://torrentking.eu/);
+- [torrentz2.eu](torrentz2.eu);
+- [torrentfunk.com](torrentfunk.com);
+- [rarbg.to](rarbg.to)
+- https://rarbgmirror.xyz/ - много прона без регистрации.
 
 ##### Поисковики
-https://krasfs.ru/
-https://www.digbt.org/
-https://btdig.com/index.htm
+- https://krasfs.ru/
+- https://www.digbt.org/
+- https://btdig.com/index.htm
 
-##### Разное
+#### Линки от анонов
 http://www.infoanarchy.org/ - вики инфоанархистов
 https://wiki.bibanon.org/ - библия анона
 chanlit.wikia.com
