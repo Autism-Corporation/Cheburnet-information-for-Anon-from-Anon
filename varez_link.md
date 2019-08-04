@@ -95,10 +95,10 @@
 - [tfile.co](tfile.co)
 - [nnm-club.me](nnm-club.me) 
 - [torlock.com](torlock.com) - Платит юзерам 1 доллар за нахождение фейкового торрента. Так что можно качать без опасения.
-- [1337x.to](1337x.to);
-- [torrentking.eu](https://torrentking.eu/);
-- [torrentz2.eu](torrentz2.eu);
-- [torrentfunk.com](torrentfunk.com);
+- [1337x.to](1337x.to)
+- [torrentking.eu](https://torrentking.eu/)
+- [torrentz2.eu](torrentz2.eu)
+- [torrentfunk.com](torrentfunk.com)
 - [rarbg.to](rarbg.to)
 - https://rarbgmirror.xyz/ - много прона без регистрации.
 
