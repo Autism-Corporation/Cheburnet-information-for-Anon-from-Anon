@@ -12,7 +12,7 @@
 1. [Що делать](/todo.md)
 1. [Аппаратная часть](/hardware.md)
 1. [Программная часть](/software.md)
-1. [Полезные линки](/varez-links.md)
+1. [Полезные линки](/varez_link.md)
 1. [Испытания и опыты Network Attached Storage](/Network-Attached-Storage.md)
 
 ***
