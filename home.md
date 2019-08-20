@@ -772,7 +772,7 @@ https://drive.google.com/drive/u/0/folders/1Kniiw-sBuEsj41spB4G8JWcxSLhfcXJC
 
 ***
 
-# Tорренты
+# Торренты
 ### 20 гигов тредов
 
 ![](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/arhiv_dosok.png)
