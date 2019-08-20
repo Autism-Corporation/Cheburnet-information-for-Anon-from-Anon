@@ -10,11 +10,11 @@
 
 ### СОДЕРЖИМОЕ:
 1. [Що делать](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/blob/master/home.md#Oсновная-информация)
-1. [Аппаратная часть](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki#aппаратная-часть)
-1. [Программная часть](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki#программная-часть)
-1. [Полезные линки](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki#cсылки-на-фото-товарища-майора-без-погон-и-ордера)
-1. [Анонимные средства связи](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki#подпольные-интернеты)
-1. [Испытания и опыты Network Attached Storage](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki#заметка-про-Network-Attached-Storage)
+1. [Аппаратная часть](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/blob/master/home.md#Программная-часть)
+1. [Программная часть](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/blob/master/home.md#Программная-часть)
+1. [Полезные линки](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/blob/master/home.md#Пак-ссылок)
+1. [Анонимные средства связи](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/blob/master/home.md#Подпольные-интернеты)
+1. [Испытания и опыты Network Attached Storage](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/blob/master/home.md#заметка-про-Network-Attached-Storage)
 
 ***
 
