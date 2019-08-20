@@ -7,7 +7,7 @@
 
 # СОДЕРЖИМОЕ:
 1. [Аппаратная часть](#aппаратная-часть)
-1. [Программная часть](#программная-часть)
+1. [Программная часть](#Программная-часть)
 1. [Ссылки на облака с гайдами/прочим цифровым контентом](#cсылки-на-фото-товарища-майора-без-погон-и-ордера)
 1. [Заметка про Network Attached Storage](#заметка-про-Network-Attached-Storage)
 1. [Торренты](#tорренты)
@@ -66,7 +66,7 @@
 
 ***
 
-# программная часть
+# Программная часть
 ### А чем качать?
 1. Скачивать _мокрые_письки.mp4_ c YouTube лучше всего с [Ummy Downloader](https://videodownloader.ummy.net/ru/), для пердоликов [youtube-dl](https://rg3.github.io/youtube-dl/)
 2. Для скачивания интернетов подойдёт [Teleport Pro](https://www.softportal.com/software-53-teleport-pro.html) (Есть ещё версия ULTRA но она отличается лишь 1 функцией которая добавляет возможность запихнуть в .txt файл до 4094 ссылки и скачать их) главное не обосрись с настройками и заместо конкретного сайта не скачай пол интернета) прога простая как вакаба, кряки есть. Есть ещё [HTTrack Website Copier](https://www.httrack.com/page/2/), [WebCopy](https://www.cyotek.com/cyotek-webcopy/downloads), [Darcy Ripper](https://darcyripper.com/features/downloads/) но инфу о них сами гуглите. [Teleport Pro крякнутая и ру$$ифицированная](https://kilosofta.com/files/844) **пароль к архиву kilo**. Для линукса можно юзать `wget -mkEpnp http://example.org`. Для дампа всяких “Index of /” есть `wget -m -np -c -R “index.html*” “http://example.org"`. 
