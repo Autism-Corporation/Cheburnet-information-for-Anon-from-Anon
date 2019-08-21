@@ -648,7 +648,7 @@ VeraCrypt -
 ##### Кинцо и сериалы:
 - [yts.lt](https://yts.lt/) - Практически все поделия Голливуда (и не только) в хорошем качестве и относительно небольшом размере. Домен именно .am, всё остальное фишинг с фильмами без видеоряда, которые предлагают скачать плагин для воспроизведения.
 - [ettv.tv](https://www.ettv.to/)**__________**[eztv.io](https://eztv.io/)**__________**[pirateiro.com](http://pirateiro.com/) - Сериальчики. Жаль только что большинство TVRipы с ватермарками каналов.
-- [nyaa.si](nyaa.si) - В основном анима, но есть и нормальный контент.
+- [nyaa.si](https://nyaa.si/) - В основном анима, но есть и нормальный контент.
 - [opensubtitles.org](https://www.opensubtitles.org/ru) - Субтитры практически ко всему и практически на всех языках.
 Если русских субтитров нет на OpenSubtitles, то они есть здесь:
 - [subs.com.ru](http://subs.com.ru/)**__________**[subtitry.ru](https://subtitry.ru/)**__________**[vse-subtitri.ru](http://vse-subtitri.ru/) - Если русских субтитров нет на OpenSubtitles, то они есть здесь.
@@ -690,27 +690,26 @@ VeraCrypt -
 - [Книго-помойка матмеха](http://vzvod621.narod.ru/)
 
 ##### Всё и сразу:
-- [katcr.co]() - **Осторожно, KickAssTorrents имеет очень много фишинговых "зеркал". Причём ни один антифишинг их не распознаёт.**
+- [katcr.co](https://katcr.co/) - **Осторожно, KickAssTorrents имеет очень много фишинговых "зеркал". Причём ни один антифишинг их не распознаёт.**
 - [proxybay.bet](https://proxybay.bet/) - Зеркала ThePirateBay. Иногда показывает что зеркала недоступны, даже если они доступны.
-- [rutracker.org](rutracker.org) 
-- [tfile.co](tfile.co)
-- [nnm-club.me](nnm-club.me) 
-- [torlock.com](torlock.com) - Платит юзерам 1 доллар за нахождение фейкового торрента. Так что можно качать без опасения.
-- [1337x.to](1337x.to)**__________**[torrentking.eu](https://torrentking.eu/)**__________**[torrentz2.eu](torrentz2.eu)**__________**[torrentfunk.com](torrentfunk.com)**__________**[rarbg.to](rarbg.to) - Просто хорошие трекеры, про которые ничего особенного не скажешь.
-- https://rarbgmirror.xyz/ - много прона без регистрации.
+- [rutracker.org](http://rutracker.org/forum/index.php) 
+- [tfile.co](http://megatfile.cc/)
+- [nnm-club.me](http://nnmclub.to/) 
+- [torlock.com](https://www.torlock2.com/) - Платит юзерам 1 доллар за нахождение фейкового торрента. Так что можно качать без опасения.
+- [1337x.to](https://1337x.to/)**__________**[torrentking.eu](https://torrentking.eu/)**__________**[torrentz2.eu](https://torrentz2.eu/)**__________**[torrentfunk.com](https://www.torrentfunk.com/)**__________**[rarbg.to](http://rarbg.to/index70.php) - Просто хорошие трекеры, про которые ничего особенного не скажешь.
+- [rarbgmirror.xyz](https://rarbgmirror.xyz/) - много прона без регистрации.
 
 ##### Поисковики
-- https://krasfs.ru/
-- https://www.digbt.org/
-- https://btdig.com/index.htm
+- [krasfs.ru](https://krasfs.ru/)
+- [digbt.org](https://www.digbt.org/)
+- [btdig.com](https://btdig.com/index.htm)
 
 #### Линки от анонов
-- http://www.infoanarchy.org/ - вики инфоанархистов
-- https://wiki.bibanon.org/ - библия анона
-- chanlit.wikia.com
-- tv-televisionandfilm.fandom.com
-- vsrecommendedgames.fandom.com Адвайс листы ирекомендации по книгам, фильмам, тв-шоу и играмот 4чана.
-- https://sheba.spb.ru/ - советские книги и аудио
+- [infoanarchy.org](http://www.infoanarchy.org/) - вики инфоанархистов
+- [wiki.bibanon.org](https://wiki.bibanon.org/) - библия анона
+- [tv-televisionandfilm.fandom.com](https://tv-televisionandfilm.fandom.com/wiki//tv/_Wiki)
+- [vsrecommendedgames.fandom.com](https://vsrecommendedgames.fandom.com/wiki/V/%27s_Recommended_Games_Wiki) Адвайс листы ирекомендации по книгам, фильмам, тв-шоу и играмот 4чана.
+- [sheba.spb.ru](https://sheba.spb.ru/) - советские книги и аудио
 
 https://en.wikipedia.org/wiki/Wikipedia:Database_download
 Дамп википедии с инструкцией, скачивай в первую очередь
