@@ -696,7 +696,7 @@ VeraCrypt -
 - [tfile.co](https://megatfile.cc/)
 - [nnm-club.me](https://nnmclub.to/) 
 - [torlock.com](https://www.torlock2.com/) - Платит юзерам 1 доллар за нахождение фейкового торрента. Так что можно качать без опасения.
-- [1337x.to](https://1337x.to/)**__________**[torrentking.eu](https://torrentking.eu/)**__________**[torrentz2.eu](https://torrentz2.eu/)**__________**[torrentfunk.com](https://www.torrentfunk.com/)**__________**[rarbg.to](http://rarbg.to/index70.php) - Просто хорошие трекеры, про которые ничего особенного не скажешь.
+- [1337x.to](https://1337x.to/)**__________**[torrentking.eu](https://torrentking.eu/)**__________**[torrentz2.eu](https://torrentz2.eu/)**__________**[torrentfunk.com](https://www.torrentfunk.com/)**__________**[rarbg.to](https://rarbg.to/index70.php) - Просто хорошие трекеры, про которые ничего особенного не скажешь.
 - [rarbgmirror.xyz](https://rarbgmirror.xyz/) - много прона без регистрации.
 
 ##### Поисковики
