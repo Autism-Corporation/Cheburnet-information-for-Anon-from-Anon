@@ -231,7 +231,7 @@ NAS - файлопомойка, на которой аноним может хр
 
 Некоторые корпуса, например, Node304, имеют внутренние корзины с виброподвесами, чтобы харды не так шумели. Вместо этого вполне можно заюзать резиновые проставки под болты, крепящие харды к корпусу. Блоки питания, поставляемые вкупе с корпусами, обычно откровенно хуёвые, и их придется заменить, поэтому тоже нахуй. Про БП [чуть дальше](#блок-питания).
 
-На али и ебее продаются внутренние корзины для хардов (HDD Cage Rack), которые можно закрепить внутри системника, и на которые можно повесить кулер. Например, такая хуйня: ![HDD Cage Rack](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/NEW-5-25-to-5x-3-5-SATA-SAS-HDD-Cage-Rack-Hard-Drive-Tray-Caddy.jpg_640x640.jpg)
+На али и ебее продаются внутренние корзины для хардов (HDD Cage Rack), которые можно закрепить внутри системника, и на которые можно повесить кулер. Например, такая хуйня: ![HDD Cage Rack](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/5HDD_Cage_Rack.jpg)
 
 Учти, что размер корпуса ограничит выбор матерей по их форм-фактору. Я вот, например, заебался искать mini-itx мамку с поддержкой ecc оперативки для корпуса node304, но результат того стоил. Разумнее все же будет купить корпус хотя бы под microATX.
 
@@ -487,7 +487,7 @@ ZFS хреново растет. Растить ZPool можно только д
 Датасетов может быть сколько угодно в ZPool. Например, можно на каждый чих выделять по датасету: под файлопомойку, под каждый Jail, под бекапы, под торренты, и т.д.
 
 ZFS по слоям от железа к ФС:  
-![zfs layers](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/zfs-overview.png)
+![zfs layers](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/ZFS.png)
 - VDev:
 	- VDev is a group of disk drives that are allocated together and intended to work together as a single virtual device to store data.
 	- VDev are allocated in RAIDZ formats (for R5 and R6 or Mirror for R0)
@@ -610,25 +610,25 @@ VeraCrypt -
 - [irdevelopers.com](https://irdevelopers.com/)
 - [rsload.net](https://rsload.net/)**__________**[onhax.me](https://onhax.me/) - Варез, кряки, репаки, кейгены. Без хуёв.
 - [portableapps.com](https://portableapps.com/)
-- [startcrack.com](http://startcrack.com/)
+- [startcrack.com](https://startcrack.com/)
 - [teamos-hkrg.com](https://teamos-hkrg.com/index.php)
 - [karanpc.com](https://karanpc.com/) - Варез, кряки, репаки, кейгены. 
 
 ##### Софт на ведроид:
-- [4pda.ru](http://4pda.ru/) - Без иронии. После наступления чебурнета эта файлопомойка начнёт массово тереть варез, лишь бы её не заблочили. Качай пока не поздно.
+- [4pda.ru](https://4pda.ru/) - Без иронии. После наступления чебурнета эта файлопомойка начнёт массово тереть варез, лишь бы её не заблочили. Качай пока не поздно.
 
 Мало чем отличаются друг от друга, разве что вандалы с наших обменников могут русифицировать приложение.
 - [apk4fun.com](https://www.apk4fun.com/)
 - [apkmirror.com](https://www.apkmirror.com/) 
-- [apkpure.com](apkpure.com) 
+- [apkpure.com](https://apkpure.com) 
 - [trashbox.ru](https://trashbox.ru/)
 - [mob.org](https://mob.org/) 
 
 ##### Игры:
 - [Skidrow](https://www.skidrowcodex.net/), [CPY](https://cpy-crack.com/) - Годные репакеры, в отличие от наших действительно ничего не вырезают и не перекодируют. Не ставят ватермарки, не вшивают заставки и рекламу. И уж тем более ничего не переводят. 
-- [isohunt.ee](http://isohunt.ee/) 
-- [small-games.info](https://small-games.info/) - Осторожнее, очень много локализации. Но можно найти и оригиналы. Для скачивания торрентов необходимо 1 репутация, без неё даёт ссылки на скачивае с парашь вида Unibytes с анальными резалками скорости.
-- [igg-games.com](igg-games.com)**__________**[apunkagames.com](https://apunkagames.com/)**__________**[fullypcgames.net](http://www.fullypcgames.net/) - Ставят пароль на некоторые архивы. Пароль один и тот же. 
+- [isohunt.ee](https://isohunt.ee/) 
+- [small-games.info](https://small-games.info/) - Осторожнее, очень много локализации. Но можно найти и оригиналы. Для скачивания торрентов необходимо 1 репутация, без неё даёт ссылки на скачивае с Unibytes.
+- [igg-games.com](https://igg-games.com)**__________**[apunkagames.com](https://apunkagames.com/)**__________**[fullypcgames.net](https://www.fullypcgames.net/) - Ставят пароль на некоторые архивы. Пароль один и тот же. 
 - [myplaycity.com](https://www.myplaycity.com/) - Платные игры задаром, при том легально. Правда рекламы дохуя, но её можно выпилить. 
 - https://rutracker.org/forum/viewtopic.phpt=4252995 -Ромсет с играми SEGA 
 - https://rutracker.org/forum/viewtopic.phpt=4276171 -Для N64 
@@ -647,54 +647,54 @@ VeraCrypt -
 
 ##### Кинцо и сериалы:
 - [yts.lt](https://yts.lt/) - Практически все поделия Голливуда (и не только) в хорошем качестве и относительно небольшом размере. Домен именно .am, всё остальное фишинг с фильмами без видеоряда, которые предлагают скачать плагин для воспроизведения.
-- [ettv.tv](https://www.ettv.to/)**__________**[eztv.io](https://eztv.io/)**__________**[pirateiro.com](http://pirateiro.com/) - Сериальчики. Жаль только что большинство TVRipы с ватермарками каналов.
+- [ettv.tv](https://www.ettv.to/)**__________**[eztv.io](https://eztv.io/)**__________**[pirateiro.com](https://pirateiro.com/) - Сериальчики. Жаль только что большинство TVRipы с ватермарками каналов.
 - [nyaa.si](https://nyaa.si/) - В основном анима, но есть и нормальный контент.
 - [opensubtitles.org](https://www.opensubtitles.org/ru) - Субтитры практически ко всему и практически на всех языках.
 Если русских субтитров нет на OpenSubtitles, то они есть здесь:
-- [subs.com.ru](http://subs.com.ru/)**__________**[subtitry.ru](https://subtitry.ru/)**__________**[vse-subtitri.ru](http://vse-subtitri.ru/) - Если русских субтитров нет на OpenSubtitles, то они есть здесь.
+- [subs.com.ru](https://subs.com.ru/)**__________**[subtitry.ru](https://subtitry.ru/)**__________**[vse-subtitri.ru](https://vse-subtitri.ru/) - Если русских субтитров нет на OpenSubtitles, то они есть здесь.
 
 ##### Литература:
 - [pdfstop.com](https://pdfstop.com/)
 - [bookflare.net](https://bookflare.org/)
 - [read-any-book.com](https://read-any-book.com/)
 - [planetebook.com](https://www.planetebook.com/)
-- [pdfland.net](http://pdfland.net/)
-- [ebooks-for-all.com](http://www.ebooks-for-all.com/)
+- [pdfland.net](https://pdfland.net/)
+- [ebooks-for-all.com](https://www.ebooks-for-all.com/)
 - [free-ebooks.net](https://www.free-ebooks.net/)
 - [manybooks.net](https://manybooks.net/)
-- [freecomputerbooks.com](http://freecomputerbooks.com/)
+- [freecomputerbooks.com](https://freecomputerbooks.com/)
 - [freetechbooks.com](https://www.freetechbooks.com/)
 - [ebook3000.biz](https://ebook3000.biz/)
 - [bookrix.com](https://www.bookrix.com/)
-- [cookebooks.info](http://cookebooks.info/)
-- [magdownload.org](http://magdownload.org/)
+- [cookebooks.info](https://cookebooks.info/)
+- [magdownload.org](https://magdownload.org/)
 - [magazinelib.com](https://magazinelib.com/)
-- [mobilism.xyz](http://mobilism.xyz/)
-- [Либрусек](http://lib.rus.ec/ )
-- [Флибуста](http://flibusta.net/)
-- [Куллиб](http://coollib.net/)
+- [mobilism.xyz](https://mobilism.xyz/)
+- [Либрусек](https://lib.rus.ec/ )
+- [Флибуста](https://flibusta.net/)
+- [Куллиб](https://coollib.net/)
 - [Сайт с фанфиками](https://ficbook.net/)
-- [АСМОДЕЙ](http://asmodei.ru/ )
-- [iknigi](http://iknigi.net/)
-- [Fantasy World](http://f-w.in/)
-- [e-reading](http://www.e-reading.link/)
-- [MAXIMA-LIBRARY](http://maxima-library.org/)
-- [LITLIB](http://fb.litlib.net )
-- [Журнал "Самиздат"](http://opdshome.uo1.net/samlib/)
-- [FANTLAB](http://fantlab.ru/)
-- [Android Club](http://smartoff.net/opds/)
-- [Проект Gutenberg](http://m.gutenberg.org )
-- [opdsHome](http://opdshome.uo1.net/ )
+- [АСМОДЕЙ](https://asmodei.ru/ )
+- [iknigi](https://iknigi.net/)
+- [Fantasy World](https://f-w.in/)
+- [e-reading](https://www.e-reading.link/)
+- [MAXIMA-LIBRARY](https://maxima-library.org/)
+- [LITLIB](https://fb.litlib.net )
+- [Журнал "Самиздат"](https://opdshome.uo1.net/samlib/)
+- [FANTLAB](https://fantlab.ru/)
+- [Android Club](https://smartoff.net/opds/)
+- [Проект Gutenberg](https://m.gutenberg.org )
+- [opdsHome](https://opdshome.uo1.net/ )
 - [200 гигов Computer science литературы на ангельском.](https://torrentz.run/user/j3w1/)
-- [Много книг советского периода](http://www.ph4s.ru/)
-- [Книго-помойка матмеха](http://vzvod621.narod.ru/)
+- [Много книг советского периода](https://www.ph4s.ru/)
+- [Книго-помойка матмеха](https://vzvod621.narod.ru/)
 
 ##### Всё и сразу:
 - [katcr.co](https://katcr.co/) - **Осторожно, KickAssTorrents имеет очень много фишинговых "зеркал". Причём ни один антифишинг их не распознаёт.**
 - [proxybay.bet](https://proxybay.bet/) - Зеркала ThePirateBay. Иногда показывает что зеркала недоступны, даже если они доступны.
-- [rutracker.org](http://rutracker.org/forum/index.php) 
-- [tfile.co](http://megatfile.cc/)
-- [nnm-club.me](http://nnmclub.to/) 
+- [rutracker.org](https://rutracker.org/forum/index.php) 
+- [tfile.co](https://megatfile.cc/)
+- [nnm-club.me](https://nnmclub.to/) 
 - [torlock.com](https://www.torlock2.com/) - Платит юзерам 1 доллар за нахождение фейкового торрента. Так что можно качать без опасения.
 - [1337x.to](https://1337x.to/)**__________**[torrentking.eu](https://torrentking.eu/)**__________**[torrentz2.eu](https://torrentz2.eu/)**__________**[torrentfunk.com](https://www.torrentfunk.com/)**__________**[rarbg.to](http://rarbg.to/index70.php) - Просто хорошие трекеры, про которые ничего особенного не скажешь.
 - [rarbgmirror.xyz](https://rarbgmirror.xyz/) - много прона без регистрации.
@@ -705,7 +705,7 @@ VeraCrypt -
 - [btdig.com](https://btdig.com/index.htm)
 
 #### Линки от анонов
-- [infoanarchy.org](http://www.infoanarchy.org/) - вики инфоанархистов
+- [infoanarchy.org](https://www.infoanarchy.org/) - вики инфоанархистов
 - [wiki.bibanon.org](https://wiki.bibanon.org/) - библия анона
 - [tv-televisionandfilm.fandom.com](https://tv-televisionandfilm.fandom.com/wiki//tv/_Wiki)
 - [vsrecommendedgames.fandom.com](https://vsrecommendedgames.fandom.com/wiki/V/%27s_Recommended_Games_Wiki) Адвайс листы ирекомендации по книгам, фильмам, тв-шоу и играмот 4чана.
@@ -834,7 +834,7 @@ https://drive.google.com/drive/u/0/folders/1Kniiw-sBuEsj41spB4G8JWcxSLhfcXJC
 # Торренты
 ### 20 гигов тредов
 
-![](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/arhiv_dosok.png)
+![](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/(T)arhiv_dosok.png)
 
 magnet:?xt=urn:btih:53f3eff363f805dd643c1ac0c7f8ab66a985d213&dn=%d0%90%d1%80%d1%85%d0%b8%d0%b2%20%d0%b4%d0%be%d1%81%d0%be%d0%ba&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%2fannounce&tr=http%3a%2f%2ftracker.publicbt.com%2fannounce
 
@@ -854,7 +854,7 @@ magnet:?xt=urn:btih:ee5ab527caa134e0c12a03bf1818e1f1e3a761fd&dn=%D0%9F%D0%B0%D0%
 
 ### Библиотека выживальщика
 
-![](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/1.PNG)
+![](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/(T)biblioteka_vizhivalshika.PNG)
 
 magnet:?xt=urn:btih:9885C2D8CF660236E777EE0D3F2E74B4F967DB69&dn=%d0%91%d0%b8%d0%b1%d0%bb%d0%b8%d0%be%d1%82%d0%b5%d0%ba%d0%b0%20%d0%b2%d1%8b%d0%b6%d0%b8%d0%b2%d0%b0%d0%bb%d1%8c%d1%89%d0%b8%d0%ba%d0%b0
 
@@ -862,7 +862,7 @@ magnet:?xt=urn:btih:9885C2D8CF660236E777EE0D3F2E74B4F967DB69&dn=%d0%91%d0%b8%d0%
 
 ### Разное
 
-![](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/15646791860140.png)
+![](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/(T)requested.png)
 
 magnet:?xt=urn:btih:48490890253391C9C7B1592DFDED633A62394373&dn=requested&tr=http%3a%2f%2ftracker.hongfire.com%3a2710%2fannounce&tr=http%3a%2f%2ftracker.mininova.org%2fannounce&tr=http%3a%2f%2ftpb.tracker.thepiratebay.org%3a80%2fannounce&tr=http%3a%2f%2fopen.tracker.thepiratebay.org%2fannounce&tr=http%3a%2f%2fvip.tracker.thepiratebay.org%2fannounce&tr=http%3a%2f%2fvtv.tracker.thepiratebay.org%2fannounce&tr=http%3a%2f%2ftv.tracker.thepiratebay.org%2fannounce&tr=http%3a%2f%2ftrackeri.rarbg.com%2fannounce&tr=http%3a%2f%2ftrackeri4.rarbg.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.prq.to%2fannounce&tr=http%3a%2f%2feztv.tracker.prq.to%2fannounce&tr=http%3a%2f%2ftracker.ip-cloak.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.paradise-tracker.com%3a10000%2fannounce&tr=http%3a%2f%2ftracker.paradise-tracker.com%3a12001%2fannounce&tr=http%3a%2f%2ftracker.tfile.ru%2fannounce.php%3fuk%3d1111111111%26&tr=http%3a%2f%2finferno.demonoid.com%3a3389%2fannounce&tr=http%3a%2f%2finferno.demonoid.com%3a3391%2fannounce&tr=http%3a%2f%2finferno.demonoid.com%3a3393%2fannounce&tr=http%3a%2f%2fannounce.freeexchange.ru%3a2710%2fannounce&tr=http%3a%2f%2fnyaatorrents.info%3a3277%2fannounce&tr=http%3a%2f%2ftracker.rusdivx.ee%2fannounce.php&tr=http%3a%2f%2fpirates.sumotracker.com%2fannounce&tr=http%3a%2f%2fwww.sumotracker.com%2fannounce&tr=http%3a%2f%2fdenis.stalker.h3q.com%3a6969%2fannounce&tr=http%3a%2f%2fdenis.stalker.h3q.com%2fannounce&tr=http%3a%2f%2fwww.torrent-downloads.to%3a2710%2fannounce&tr=http%3a%2f%2ftracker.bitreactor.to%3a2710%2fannounce&tr=http%3a%2f%2ftracker.bitnova.info%2fannounce&tr=http%3a%2f%2ftracker1.torrentum.pl%2fannounce&tr=http%3a%2f%2fanimaco.xlphp.net%3a80%2ftracker1%2fannounce.php&tr=http%3a%2f%2fuseekfile.com%3a2710%2fannounce&tr=http%3a%2f%2fezard.ma.cx%3a6969%2fannounce&tr=http%3a%2f%2fnikito.su%2fxxx%2ft.php%3fg%3dxxx%26type%3d_free&tr=http%3a%2f%2ffreetorrents.org.ru%2ftracker%2fannounce.php&tr=http%3a%2f%2fpowertracker.org%2ftorrent%2fbt%2fannounce.php%3fuk%3d0Vi53RmSNV%26&tr=http%3a%2f%2fbt.tfile.ru%3a8080%2fa
 
