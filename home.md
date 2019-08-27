@@ -612,6 +612,7 @@ VeraCrypt -
 - [irdevelopers.com](https://irdevelopers.com/)
 - [rsload.net](https://rsload.net/)**__________**[onhax.me](https://onhax.me/) - Варез, кряки, репаки, кейгены. Без хуёв.
 - [portableapps.com](https://portableapps.com/)
+- [softportal.com](https://www.softportal.com/)
 - [startcrack.com](https://startcrack.com/)
 - [teamos-hkrg.com](https://teamos-hkrg.com/index.php)
 - [karanpc.com](https://karanpc.com/) - Варез, кряки, репаки, кейгены. 
