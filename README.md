@@ -8,6 +8,7 @@
 
 ### Полезная ссылка со всей инфой:
 на дваче сленге: https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki
+
 для нормисов: https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/blob/master/home.md
 
 ***
