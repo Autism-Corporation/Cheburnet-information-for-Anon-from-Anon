@@ -637,8 +637,7 @@ FreeBSD handbook: https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/
 ##### Софт на пекарню:  
 - [alternativeto.net](https://alternativeto.net/) - Хороший, годный ресурс для поиска софта и аналогов к нему.
 - [irdevelopers.com](https://irdevelopers.com/)
-
-Варез/кряки/репаки/кейгены. Без хуёв.
+- Варез/кряки/репаки/кейгены. Без хуёв.
   - [rsload.net](https://rsload.net/)
   - [onhax.me](https://onhax.me/)
   - [karanpc.com](https://karanpc.com/)
@@ -649,8 +648,7 @@ FreeBSD handbook: https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/
 
 ##### Софт на андроид:
 - [4pda.ru](https://4pda.ru/) - Без иронии. После наступления чебурнета эта файлопомойка начнёт массово тереть варез, лишь бы её не заблочили. Качай пока не поздно.
-
-Мало чем отличаются друг от друга, разве что вандалы с наших обменников могут русифицировать приложение.
+- Мало чем отличаются друг от друга, разве что вандалы с наших обменников могут русифицировать приложение.
   - [apk4fun.com](https://www.apk4fun.com/)
   - [apkmirror.com](https://www.apkmirror.com/) 
   - [apkpure.com](https://apkpure.com) 
@@ -661,8 +659,7 @@ FreeBSD handbook: https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/
 - [Skidrow](https://www.skidrowcodex.net/)_____[CPY](https://cpy-crack.com/) - Годные репакеры, в отличие от наших действительно ничего не вырезают и не перекодируют. Не ставят ватермарки, не вшивают заставки и рекламу. И уж тем более ничего не переводят. 
 - [isohunt.ee](https://isohunt.ee/) 
 - [small-games.info](https://small-games.info/) - Осторожнее, очень много локализации. Но можно найти и оригиналы. Для скачивания торрентов необходимо 1 репутация, без неё даёт ссылки на скачивае с Unibytes.
-
-Ставят пароль на некоторые архивы. Пароль один и тот же. 
+- Ставят пароль на некоторые архивы. Пароль один и тот же. 
   - [igg-games.com](https://igg-games.com)
   - [apunkagames.com](https://apunkagames.com/)
   - [fullypcgames.net](https://www.fullypcgames.net/)
@@ -686,15 +683,13 @@ FreeBSD handbook: https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/
 
 ##### Кинцо и сериалы:
 - [yts.lt](https://yts.lt/) - Практически все поделия Голливуда (и не только) в хорошем качестве и относительно небольшом размере. Домен именно .am, всё остальное фишинг с фильмами без видеоряда, которые предлагают скачать плагин для воспроизведения.
-
-Сериальчики. Жаль только что большинство TVRipы с ватермарками каналов.
+- Сериальчики. Жаль только что большинство TVRipы с ватермарками каналов.
   - [ettv.tv](https://www.ettv.to/)
   - [eztv.io](https://eztv.io/)
   - [pirateiro.com](https://pirateiro.com/)
 - [nyaa.si](https://nyaa.si/) - В основном анима, но есть и нормальный контент.
 - [opensubtitles.org](https://www.opensubtitles.org/ru) - Субтитры практически ко всему и практически на всех языках.
-
-Если русских субтитров нет на OpenSubtitles, то они есть здесь:
+- Если русских субтитров нет на OpenSubtitles, то они есть здесь:
   - [subs.com.ru](https://subs.com.ru/)
   - [subtitry.ru](https://subtitry.ru/)
   - [vse-subtitri.ru](https://vse-subtitri.ru/)
@@ -784,8 +779,7 @@ FreeBSD handbook: https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/
 - [tfile.co](https://megatfile.cc/)
 - [nnm-club.me](https://nnmclub.to/) 
 - [torlock.com](https://www.torlock2.com/) - Платит юзерам 1 доллар за нахождение фейкового торрента. Так что можно качать без опасения.
-
-Просто хорошие трекеры, про которые ничего особенного не скажешь.
+- Просто хорошие трекеры, про которые ничего особенного не скажешь.
   - [1337x.to](https://1337x.to/)
   - [torrentking.eu](https://torrentking.eu/)
   - [torrentz2.eu](https://torrentz2.eu/)
