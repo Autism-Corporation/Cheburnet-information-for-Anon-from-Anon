@@ -1020,4 +1020,4 @@ magnet:?xt=urn:btih:48490890253391C9C7B1592DFDED633A62394373&dn=requested&tr=htt
 - 17 октября В Мурманской области у провайдера Олтелеком, вероятно, заработала «суверенная блокировка» через DPI, GoodbyeDPI рапортует о полноценном DPI и советует VPN т.к. на этом его полномочия все. https://habr.com/ru/news/t/471970/
 
 
-- ожидается 1 ноября - вступил в силу [закон об изоляции Рунета.](https://meduza.io/news/2019/04/16/gosduma-prinyala-zakon-ob-izolyatsii-runeta)
+- 1 ноября - вступил в силу [закон об изоляции Рунета.](https://meduza.io/news/2019/04/16/gosduma-prinyala-zakon-ob-izolyatsii-runeta)
