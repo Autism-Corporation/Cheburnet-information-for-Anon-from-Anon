@@ -32,6 +32,8 @@
 
 **17.10.2019** В Мурманской области у провайдера Олтелеком, вероятно, заработала «суверенная блокировка» через DPI, GoodbyeDPI рапортует о полноценном DPI и советует VPN т.к. на этом его полномочия все.
 
+https://t.me/joinchat/Djix3xUqWgKnAQC03_fvNA ссылка на конфу в телеграмме.
+
 
  ![](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/3OP.jpg) 
  ![](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/4OP.png)
