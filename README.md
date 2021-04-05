@@ -34,4 +34,5 @@ https://t.me/joinchat/Djix3xUqWgKnAQC03_fvNA ссылка на конфу в т�
  ![](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/4OP.png)
  ![](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/2OP.jpg)
  ![](https://raw.githubusercontent.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/master/pic/1OP.jpg)
+ ![](https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/blob/master/pic/Linoruuux.png)
 
