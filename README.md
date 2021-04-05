@@ -6,11 +6,6 @@
 + https://ntc.party/ сайт посвященный блокировкам от ValdikSS
 + Все свои идеи/правки/найденные ошибки в писанине/ссылки на гайды/.... можно кидать на мыло **XxXvasyan99XxX@gmail.com**
 
-### Полезная ссылка со всей инфой:
-на дваче сленге: https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/wiki
-
-для нормисов: https://github.com/Autism-Corporation/Cheburnet-information-for-Anon-from-Anon/blob/master/home.md
-
 ***
 
 ### Вы все врети? Альтернативное мнение. 
